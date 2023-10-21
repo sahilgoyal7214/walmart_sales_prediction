@@ -20,7 +20,7 @@
 
 ## 2. Installation <a name="installation"></a>
 
-- Python versions 3.*.
+- Python version used: 3.11.6
 - Python Libraries:
     - scikit-learn.
     - Pandas.
