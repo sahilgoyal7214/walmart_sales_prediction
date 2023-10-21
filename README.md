@@ -30,6 +30,7 @@
     - datetime.
     - pickle
     - streamlit
+    - base64
 
 ## 3. Data<a name="data"></a> 
 
