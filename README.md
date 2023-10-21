@@ -22,12 +22,14 @@
 
 - Python versions 3.*.
 - Python Libraries:
-    - sklearn.
+    - scikit-learn.
     - Pandas.
     - numpy.
     - seaborn
     - matplotlib.
     - datetime.
+    - pickle
+    - streamlit
 
 ## 3. Data<a name="data"></a> 
 
