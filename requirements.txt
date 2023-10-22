@@ -1,4 +1,3 @@
-numpy
 base64
 scikit-learn
 streamlit
