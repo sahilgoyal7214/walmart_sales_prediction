@@ -1,0 +1,9 @@
+numpy
+base64
+scikit-learn
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+datetime
