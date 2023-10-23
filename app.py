@@ -41,7 +41,7 @@ model_path = r"rfr_model.pkl"
 rfr_model = load_rfr_model(model_path)
 
 if rfr_model is not None:
-    store = st.number_input("Enter store number: ",format = "%d")
+    store = st.number_input("Enter store number: ",value = int)
     Fuel_Price = st.number_input("Enter fuel price: ")
     CPI = st.number_input("Enter CPI: ")
     Unemployment = st.number_input("Enter unemployment: ")
