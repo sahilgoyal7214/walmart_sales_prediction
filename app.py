@@ -45,8 +45,8 @@ if rfr_model is not None:
     Fuel_Price = st.number_input("Enter fuel price: ",)
     CPI = st.number_input("Enter CPI: ")
     Unemployment = st.number_input("Enter unemployment: ")
-    Day = st.number_input("Enter day: ",value = 0)
-    Month = st.number_input("Enter month: ",value = 0)
+    Day = st.number_input("Enter day: ",value = 0,max_value = 31)
+    Month = st.number_input("Enter month: ",value = 0,max_value = 12)
     Year = st.number_input("Enter year: ",value = 0)
     holiday_flag = st.number_input("Is it a holiday?(0 for no, 1 for yes): ",min_value = 0,max_value = 1)
 
