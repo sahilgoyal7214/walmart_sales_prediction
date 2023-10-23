@@ -31,7 +31,7 @@ def set_background(png_file):
     ''' % bin_str
     st.markdown(page_bg_img, unsafe_allow_html=True)
 
-set_background(r"pxfuel (2).jpg")
+set_background(r"pxfuel (3).jpg")
 
 st.markdown("----")
 
